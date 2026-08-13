@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating auv_gui.egg-info
+writing auv_gui.egg-info/PKG-INFO
+writing dependency_links to auv_gui.egg-info/dependency_links.txt
+writing entry points to auv_gui.egg-info/entry_points.txt
+writing requirements to auv_gui.egg-info/requires.txt
+writing top-level names to auv_gui.egg-info/top_level.txt
+writing manifest file 'auv_gui.egg-info/SOURCES.txt'
+reading manifest file 'auv_gui.egg-info/SOURCES.txt'
+writing manifest file 'auv_gui.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv-gui.egg-link (link to .)
+Installing dash script to /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/auv_gui
+
+Installed /home/coach-s-pc/auv_pc_ws/build/auv_gui
+running symlink_data
+creating /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/ament_index
+creating /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/ament_index/resource_index
+creating /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/ament_index/resource_index/packages
+symbolically linking /home/coach-s-pc/auv_pc_ws/build/auv_gui/resource/auv_gui -> /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/ament_index/resource_index/packages
+symbolically linking /home/coach-s-pc/auv_pc_ws/build/auv_gui/package.xml -> /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/auv_gui

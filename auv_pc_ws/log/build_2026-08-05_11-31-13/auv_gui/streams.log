@@ -1,0 +1,24 @@
+[0.431s] Invoking command in '/home/coach-s-pc/auv_pc_ws/src/auv_gui': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/coach-s-pc/auv_pc_ws/build/auv_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/auv_gui build --build-base /home/coach-s-pc/auv_pc_ws/build/auv_gui/build install --record /home/coach-s-pc/auv_pc_ws/build/auv_gui/install.log --single-version-externally-managed install_data
+[0.549s] running egg_info
+[0.556s] writing ../../build/auv_gui/auv_gui.egg-info/PKG-INFO
+[0.556s] writing dependency_links to ../../build/auv_gui/auv_gui.egg-info/dependency_links.txt
+[0.556s] writing entry points to ../../build/auv_gui/auv_gui.egg-info/entry_points.txt
+[0.556s] writing requirements to ../../build/auv_gui/auv_gui.egg-info/requires.txt
+[0.557s] writing top-level names to ../../build/auv_gui/auv_gui.egg-info/top_level.txt
+[0.571s] reading manifest file '../../build/auv_gui/auv_gui.egg-info/SOURCES.txt'
+[0.572s] writing manifest file '../../build/auv_gui/auv_gui.egg-info/SOURCES.txt'
+[0.572s] running build
+[0.572s] running build_py
+[0.572s] copying auv_gui/dashboard.py -> /home/coach-s-pc/auv_pc_ws/build/auv_gui/build/lib/auv_gui
+[0.573s] running install
+[0.576s] running install_lib
+[0.583s] copying /home/coach-s-pc/auv_pc_ws/build/auv_gui/build/lib/auv_gui/dashboard.py -> /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv_gui
+[0.583s] byte-compiling /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv_gui/dashboard.py to dashboard.cpython-312.pyc
+[0.591s] running install_data
+[0.591s] running install_egg_info
+[0.599s] removing '/home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv_gui-0.0.0-py3.12.egg-info' (and everything under it)
+[0.599s] Copying ../../build/auv_gui/auv_gui.egg-info to /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv_gui-0.0.0-py3.12.egg-info
+[0.599s] running install_scripts
+[0.652s] Installing dash script to /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/auv_gui
+[0.653s] writing list of installed files to '/home/coach-s-pc/auv_pc_ws/build/auv_gui/install.log'
+[0.665s] Invoked command in '/home/coach-s-pc/auv_pc_ws/src/auv_gui' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/coach-s-pc/auv_pc_ws/build/auv_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/auv_gui build --build-base /home/coach-s-pc/auv_pc_ws/build/auv_gui/build install --record /home/coach-s-pc/auv_pc_ws/build/auv_gui/install.log --single-version-externally-managed install_data

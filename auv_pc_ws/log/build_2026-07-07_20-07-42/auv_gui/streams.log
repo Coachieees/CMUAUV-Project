@@ -1,0 +1,24 @@
+[0.371s] Invoking command in '/home/coach-s-pc/auv_pc_ws/build/auv_gui': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/coach-s-pc/auv_pc_ws/build/auv_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/coach-s-pc/auv_pc_ws/build/auv_gui/build --no-deps symlink_data
+[0.517s] running develop
+[0.596s] running egg_info
+[0.596s] creating auv_gui.egg-info
+[0.604s] writing auv_gui.egg-info/PKG-INFO
+[0.604s] writing dependency_links to auv_gui.egg-info/dependency_links.txt
+[0.604s] writing entry points to auv_gui.egg-info/entry_points.txt
+[0.604s] writing requirements to auv_gui.egg-info/requires.txt
+[0.604s] writing top-level names to auv_gui.egg-info/top_level.txt
+[0.604s] writing manifest file 'auv_gui.egg-info/SOURCES.txt'
+[0.619s] reading manifest file 'auv_gui.egg-info/SOURCES.txt'
+[0.620s] writing manifest file 'auv_gui.egg-info/SOURCES.txt'
+[0.628s] running build_ext
+[0.628s] Creating /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv-gui.egg-link (link to .)
+[0.628s] Installing dash script to /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/auv_gui
+[0.628s] 
+[0.629s] Installed /home/coach-s-pc/auv_pc_ws/build/auv_gui
+[0.629s] running symlink_data
+[0.629s] creating /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/ament_index
+[0.629s] creating /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/ament_index/resource_index
+[0.629s] creating /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/ament_index/resource_index/packages
+[0.629s] symbolically linking /home/coach-s-pc/auv_pc_ws/build/auv_gui/resource/auv_gui -> /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/ament_index/resource_index/packages
+[0.629s] symbolically linking /home/coach-s-pc/auv_pc_ws/build/auv_gui/package.xml -> /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/auv_gui
+[0.642s] Invoked command in '/home/coach-s-pc/auv_pc_ws/build/auv_gui' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/coach-s-pc/auv_pc_ws/build/auv_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/coach-s-pc/auv_pc_ws/build/auv_gui/build --no-deps symlink_data

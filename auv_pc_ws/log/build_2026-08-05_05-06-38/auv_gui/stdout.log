@@ -1,0 +1,32 @@
+running develop
+Removing /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv-gui.egg-link (link to .)
+running egg_info
+writing ../../build/auv_gui/auv_gui.egg-info/PKG-INFO
+writing dependency_links to ../../build/auv_gui/auv_gui.egg-info/dependency_links.txt
+writing entry points to ../../build/auv_gui/auv_gui.egg-info/entry_points.txt
+writing requirements to ../../build/auv_gui/auv_gui.egg-info/requires.txt
+writing top-level names to ../../build/auv_gui/auv_gui.egg-info/top_level.txt
+reading manifest file '../../build/auv_gui/auv_gui.egg-info/SOURCES.txt'
+writing manifest file '../../build/auv_gui/auv_gui.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/coach-s-pc/auv_pc_ws/build/auv_gui/build
+creating /home/coach-s-pc/auv_pc_ws/build/auv_gui/build/lib
+creating /home/coach-s-pc/auv_pc_ws/build/auv_gui/build/lib/auv_gui
+copying auv_gui/dashboard.py -> /home/coach-s-pc/auv_pc_ws/build/auv_gui/build/lib/auv_gui
+copying auv_gui/__init__.py -> /home/coach-s-pc/auv_pc_ws/build/auv_gui/build/lib/auv_gui
+running install
+running install_lib
+creating /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv_gui
+copying /home/coach-s-pc/auv_pc_ws/build/auv_gui/build/lib/auv_gui/dashboard.py -> /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv_gui
+copying /home/coach-s-pc/auv_pc_ws/build/auv_gui/build/lib/auv_gui/__init__.py -> /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv_gui
+byte-compiling /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv_gui/dashboard.py to dashboard.cpython-312.pyc
+byte-compiling /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv_gui/__init__.py to __init__.cpython-312.pyc
+running install_data
+copying resource/auv_gui -> /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/ament_index/resource_index/packages
+copying package.xml -> /home/coach-s-pc/auv_pc_ws/install/auv_gui/share/auv_gui
+running install_egg_info
+Copying ../../build/auv_gui/auv_gui.egg-info to /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/python3.12/site-packages/auv_gui-0.0.0-py3.12.egg-info
+running install_scripts
+Installing dash script to /home/coach-s-pc/auv_pc_ws/install/auv_gui/lib/auv_gui
+writing list of installed files to '/home/coach-s-pc/auv_pc_ws/build/auv_gui/install.log'
