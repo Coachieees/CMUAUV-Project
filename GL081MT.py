@@ -2,8 +2,8 @@ import serial
 import time
 
 # กำหนดพอร์ตของ UART3 และ UART5
-PORT_X = '/dev/ttyAMA1' 
-PORT_Y = '/dev/ttyAMA2'
+PORT_X = '/dev/ttyAMA3' 
+PORT_Y = '/dev/ttyAMA4'
 
 try:
     ser_x = serial.Serial(PORT_X, baudrate=115200, timeout=0.1)
